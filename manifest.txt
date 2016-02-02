@@ -1,2 +1,3 @@
 it's a new manifest for taining work with Subversion
+for my opinion it's the best system of control versions
 i use github plus TortoiseSVN
