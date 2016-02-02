@@ -1,2 +1,2 @@
-it's a new manifest for taining work with Subversion
+it's a new manifest for taining work with SVN
 i use github plus TortoiseSVN
